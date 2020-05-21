@@ -121,3 +121,15 @@ a {
     color: purple;
     background-color: white;
 }
+
+@media (max-width: 500px) {
+    .menu {
+        margin-left: 1rem;
+        font-size: 1.3rem;
+    }
+
+    .contact {
+        margin-left: 1rem;
+        font-size: 1.3rem;
+    }
+}
